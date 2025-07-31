@@ -34,9 +34,6 @@ All the app code lives in `/lib` folder.
 
 ## Evolution
 
-###  Napkins Wireframes
-<img width="800" src="https://github.com/user-attachments/assets/74d7f616-367f-41c7-b5e4-9e7510610d2d" />
-
 ### Prototype Screenshoots
 <img width="800" src="assets/imgs/Prototype_Screenshoots.png" />
 
