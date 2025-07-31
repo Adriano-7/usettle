@@ -35,7 +35,7 @@ All the app code lives in `/lib` folder.
 ## Evolution
 
 ###  Napkins Wireframes
-<img width="800" src="https://github.com/user-attachments/assets/df0056b3-a36b-4203-9d08-b4f08cd878b1" />
+<img width="800" src="https://github.com/user-attachments/assets/74d7f616-367f-41c7-b5e4-9e7510610d2d" />
 
 ### Figma Mockups
 <img width="800" src="https://github.com/user-attachments/assets/7f542df3-6568-466e-ac0d-7a62cebd81ba" />
