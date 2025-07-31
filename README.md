@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="assets/imgs/icon.png" height="100" />
     <h1>uSettle</h1>
 </div>
 
